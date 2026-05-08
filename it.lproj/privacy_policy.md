@@ -1,56 +1,65 @@
-# Guppy Informativa sulla privacy
+# Informativa sulla privacy di Guppy
 
-**Data di entrata in vigore: 23 aprile 2026**
+**Data di entrata in vigore: 9 maggio 2026**
 
-Guppy è un lettore musicale locale offline. La privacy è una parte fondamentale del modo in cui è progettato Guppy: tutta la tua musica, la cronologia di ascolto e i dati personali rimangono sul tuo dispositivo. Non gestiamo alcun server e non raccogliamo, carichiamo o condividiamo i tuoi dati in alcun modo.
+Guppy è un lettore musicale offline e locale. La privacy è una parte fondamentale del design di Guppy: tutta la musica, la cronologia degli ascolti e i dati personali rimangono sul dispositivo. Non gestiamo alcun server e non raccogliamo, carichiamo o condividiamo i vostri dati in alcun modo.
 
-Questa policy spiega a cosa accede Guppy sul tuo dispositivo, perché vi accede e il controllo che hai.
+Questa politica spiega a cosa accede Guppy sul vostro dispositivo, perché vi accede e il controllo che avete.
 
 ## Informazioni che non raccogliamo
 
-Guppy **non** raccoglie, carica o condivide nessuno dei seguenti elementi con noi o con terze parti:
+Guppy **non** raccoglie, carica o condivide quanto segue con noi o con terzi:
 
-- Informazioni sull'account, nome, e-mail, numero di telefono o qualsiasi identificatore personale.
-- Identificatori del dispositivo, identificatori pubblicitari o dati sulla posizione.
-- I tuoi file musicali, testi, illustrazioni, cronologia di ascolto, preferiti o playlist.
-- Analisi dell'utilizzo, telemetria o rapporti sugli arresti anomali.
+- Informazioni sull'account, nome, e-mail, numero di telefono o qualsiasi altro identificativo personale.
+- Identificatori del dispositivo, identificatori pubblicitari o dati di localizzazione.
+- I file musicali, i testi, la grafica, la cronologia degli ascolti, i preferiti o le playlist.
+- Analisi dell'uso, telemetria o rapporti sugli incidenti.
+- Numeri di carte di pagamento, indirizzi di fatturazione, coordinate bancarie o altre credenziali di pagamento.
 
-Guppy non integra analisi, pubblicità o SDK di tracciamento di terze parti.
+Guppy non integra alcun SDK di analisi, pubblicità o tracciamento di terze parti.
 
-## Quali accessi Guppy sul tuo dispositivo
+## A cosa accede Guppy sul vostro dispositivo
 
-Guppy accede solo ai seguenti elementi sul tuo dispositivo quando utilizzi attivamente la funzionalità correlata. Ogni accesso è controllato dalle richieste di autorizzazione del sistema di Apple e tutto avviene localmente sul tuo dispositivo.
+Guppy accede ai seguenti elementi del dispositivo solo quando si utilizza attivamente la relativa funzione. Ogni accesso è limitato dalle richieste di autorizzazione del sistema Apple e tutto avviene localmente sul dispositivo.
 
 ### Musica e file locali
 
-- Guppy legge i file musicali o di testi solo quando li selezioni esplicitamente tramite il selettore file di sistema.
-- Guppy può **accedere solo ai file che hai esplicitamente selezionato**. Non esegue la scansione né legge altri file sul tuo dispositivo.
+- Guppy legge i file musicali o di testo solo quando li scegliete esplicitamente attraverso il selezionatore di file del sistema.
+- Guppy può **accedere solo ai file esplicitamente selezionati**. Non esegue la scansione né legge altri file sul dispositivo.
 
 ### Foto
 
-- Guppy accede alla tua libreria di foto solo quando scegli di importare illustrazioni o immagini di testi da essa.
-- Guppy utilizza il selettore foto di sistema (PHPicker), che fornisce a Guppy l'accesso **solo alle immagini specifiche selezionate**. Guppy non richiede mai l'accesso completo alla libreria di foto.
+- Guppy accede alla libreria fotografica solo quando si sceglie di importare da essa immagini artistiche o testi.
+- Guppy utilizza il selezionatore di foto del sistema (PHPicker), che consente a Guppy di accedere **solo alle immagini specifiche selezionate**. Guppy non richiede mai l'accesso completo alla libreria fotografica.
 
 ### Rete locale
 
-Guppy utilizza la tua rete locale solo per le seguenti funzionalità che abiliti esplicitamente. Tutte le connessioni sono limitate alla tua rete locale o alle destinazioni che configuri tu stesso; nulla viene caricato a noi o a terze parti:
+Guppy utilizza la rete locale dell'utente solo per le seguenti funzioni che l'utente ha esplicitamente abilitato. Tutte le connessioni sono limitate alla vostra rete locale o alle destinazioni da voi configurate; nulla viene caricato a noi o a terzi:
 
 - **Trasferimento da dispositivo a dispositivo**: sposta musica e testi tra due dispositivi che eseguono Guppy sulla stessa rete locale.
-- **Caricamento dal browser sul telefono**: avvia temporaneamente un servizio HTTP locale sul telefono in modo da poter caricare file da un browser sulla stessa rete. Questo servizio viene eseguito solo mentre la funzionalità è aperta.
-- **WebDAV**: connettiti a un server WebDAV che configuri tu stesso per sfogliare o importare musica.
-- **server compatibili con Subsonic**: connettiti a un server Subsonic configurato da te per sfogliare o importare musica.
+- **Caricamento da browser sul telefono**: avvia temporaneamente un servizio HTTP locale sul telefono in modo da poter caricare i file da un browser sulla stessa rete. Questo servizio funziona solo quando la funzione è aperta.
+- **WebDAV**: connettersi a un server WebDAV configurato dall'utente per sfogliare o importare musica.
+- **Server compatibili Subsonic**: collegarsi a un server Subsonic configurato da voi per sfogliare o importare musica.
 
-Qualsiasi indirizzo server, nome utente e password immessi vengono memorizzati solo sul tuo dispositivo (le credenziali vengono conservate nel sistema Keychain) e non vengono mai caricate.
+Gli indirizzi dei server, i nomi utente e le password immessi vengono memorizzati solo sul dispositivo (le credenziali sono conservate nel Portachiavi del sistema) e non vengono mai caricati.
+
+## Acquisti e abbonamenti
+
+Guppy offre abbonamenti Premium opzionali e un acquisto unico a vita attraverso il sistema di acquisti in-app di Apple. Tutti gli acquisti, i pagamenti degli abbonamenti, i rinnovi, le cancellazioni e i rimborsi vengono elaborati da Apple attraverso l'App Store, iTunes o l'account Apple ID.
+
+Guppy non raccoglie, riceve, memorizza o elabora il numero della carta di pagamento, l'indirizzo di fatturazione, le informazioni sul conto bancario o altre credenziali di pagamento. Apple può fornire a Guppy informazioni limitate sullo stato dell'acquisto, ad esempio se un abbonamento o un acquisto a vita è attivo, scaduto, annullato o ripristinato. Guppy utilizza tale stato di acquisto solo sul dispositivo dell'utente per sbloccare o ripristinare le funzionalità Premium.
+
+È possibile gestire o annullare gli abbonamenti nelle impostazioni di iTunes o dell'ID Apple. Per l'elaborazione dei dati di acquisto e di fatturazione da parte di Apple si applicano le norme sulla privacy e le condizioni dell'App Store.
 
 ## Servizi di terze parti
 
-Quando scegli di connetterti a un server WebDAV o Subsonic, lo scambio di dati risultante avviene tra il tuo dispositivo e il server che hai configurato ed è regolato dalla politica sulla privacy di quel servizio. Guppy non è coinvolto in alcuna raccolta o inoltro di dati al di là di tale interazione diretta.
+Quando si sceglie di connettersi a un server WebDAV o Subsonic, lo scambio di dati che ne deriva avviene tra il dispositivo e il server configurato ed è regolato dalla politica sulla privacy di tale servizio. Guppy non è coinvolto in alcuna raccolta o inoltro di dati al di là di questa interazione diretta.
 
-## Le tue responsabilità e il diritto d'autore sulla musica
+## Le vostre responsabilità e il copyright musicale
 
-- Guppy **riproduce** solo musica locale che già possiedi legalmente o che sei autorizzato a utilizzare.
-- Guppy **non fornisce alcun servizio di download, ricerca o distribuzione di musica**. Tutta la musica, i testi e le illustrazioni vengono importati da te.
-- Sei l'unico responsabile di garantire di detenere i diritti o le licenze necessari per qualsiasi musica, testo o opera d'arte che importi. Ti assumi ogni responsabilità per eventuali conseguenze derivanti dall'importazione o dall'utilizzo di contenuti non autorizzati.
+- Guppy **produce** solo musica locale che già si possiede legalmente o che si è autorizzati a usare.
+- Guppy **non fornisce alcun servizio di download, ricerca o distribuzione di musica**. Tutta la musica, i testi e la grafica sono importati dall'utente.
+- L'utente è l'unico responsabile di assicurarsi di possedere i diritti o le licenze necessarie per qualsiasi musica, testo o opera d'arte importata. L'utente è responsabile di tutte le conseguenze derivanti dall'importazione o dall'utilizzo di contenuti non autorizzati.
 
 ## Privacy dei bambini
 
@@ -58,10 +67,10 @@ Guppy non raccoglie informazioni personali da nessun utente, compresi i bambini.
 
 ## Modifiche a questa politica
 
-Se questa politica viene aggiornata, il documento in-app verrà aggiornato e la "Data di entrata in vigore" in alto verrà rivista.
+In caso di aggiornamento di questa politica, il documento in-app verrà aggiornato e la "Data di entrata in vigore" in alto verrà rivista.
 
-## Contattaci
+## Contatto
 
-Se avete domande su questa politica, contattateci a:
+In caso di domande su questa politica, si prega di contattarci all'indirizzo:
 
 `yangliu-1995@outlook.com`

@@ -1,85 +1,99 @@
 # Guppy Nutzungsbedingungen
 
-**Datum des Inkrafttretens: 23. April 2026**
+**Datum des Inkrafttretens: 9. Mai 2026**
 
-Willkommen bei Guppy. Diese Nutzungsbedingungen („Bedingungen“) bilden eine Vereinbarung zwischen Ihnen und Guppy („wir“, „uns“ oder die „App“) hinsichtlich Ihrer Nutzung der Guppy-Anwendung. Bitte lesen Sie diese sorgfältig durch, bevor Sie die App nutzen.
+Willkommen bei Guppy. Diese Nutzungsbedingungen ("Bedingungen") bilden eine Vereinbarung zwischen dir und Guppy ("wir", "uns" oder die "App") bezüglich deiner Nutzung der Guppy-Anwendung. Bitte lesen Sie sie sorgfältig durch, bevor Sie die App nutzen.
 
-## 1. Annahme der Bedingungen
+## 1. Akzeptanz der Bedingungen
 
-Durch das Herunterladen, Installieren oder Verwenden von Guppy bestätigen Sie, dass Sie diese Bedingungen in ihrer Gesamtheit gelesen und verstanden haben und damit einverstanden sind, an sie gebunden zu sein. Wenn Sie mit irgendeinem Teil dieser Bedingungen nicht einverstanden sind, nutzen Sie die App bitte nicht.
+Durch das Herunterladen, die Installation oder die Nutzung von Guppy bestätigen Sie, dass Sie diese Bedingungen in ihrer Gesamtheit gelesen und verstanden haben und mit ihnen einverstanden sind. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, verwenden Sie die App bitte nicht.
 
 ## 2. Über Guppy
 
-Guppy ist ein offline, lokaler Musikplayer. Es spielt nur:
+Guppy ist ein lokaler Offline-Musikplayer. Er spielt nur:
 
-– lokale Musikdateien auf Ihrem Gerät; und
-– Musikinhalte von Drittanbieterdiensten, die Sie selbst konfigurieren, wie z. B. WebDAV- oder Subsonic-kompatible Server.
+- lokale Musikdateien auf Ihrem Gerät; und
+- musikinhalte von Diensten Dritter, die Sie selbst konfigurieren, wie WebDAV oder Subsonic-kompatible Server.
 
-**Guppy bietet keinen Musik-Download-, Such- oder Vertriebsdienst.** Alle Musikinhalte werden von Ihnen importiert oder stammen von Servern, die Sie selbst konfigurieren.
+**Guppy bietet keine Dienste zum Herunterladen, Suchen oder Verteilen von Musik an.** Alle Musikinhalte werden von Ihnen importiert oder stammen von Servern, die Sie selbst konfigurieren.
 
 ## 3. Lizenz
 
-Vorbehaltlich Ihrer Einhaltung dieser Bedingungen gewähren wir Ihnen eine persönliche, nicht exklusive, nicht übertragbare, widerrufliche und eingeschränkte Lizenz zur Installation und Nutzung von Guppy auf Apple-Geräten, die Sie besitzen oder kontrollieren.
+Unter der Voraussetzung, dass Sie diese Bedingungen einhalten, gewähren wir Ihnen eine persönliche, nicht exklusive, nicht übertragbare, widerrufbare und begrenzte Lizenz zur Installation und Nutzung von Guppy auf Apple-Geräten, die Sie besitzen oder kontrollieren.
 
-Alle Eigentums-, Urheberrechte und sonstigen geistigen Eigentumsrechte an der App selbst verbleiben bei Guppy. Alle in diesen Bedingungen nicht ausdrücklich gewährten Rechte bleiben vorbehalten.
+Alle Eigentums-, Urheber- und sonstigen geistigen Eigentumsrechte an der App selbst verbleiben bei Guppy. Alle nicht ausdrücklich in diesen Bedingungen gewährten Rechte sind vorbehalten.
 
-## 4. Akzeptable Verwendung
+## 4. Premium-Abonnement und In-App-Käufe
 
-Sie erklären sich damit einverstanden, bei der Verwendung von Guppy Folgendes nicht zu tun:
+Guppy bietet optionalen Premium-Zugang durch automatisch verlängerbare Abonnements und einen einmaligen Kauf auf Lebenszeit. Der Premium-Zugang kann alle Funktionen freischalten, einschließlich Desktop Lyrics, WebDAV, Wi-Fi Transfer, Subsonic Import, Cross-Device Transfer und andere Premium-Funktionen, die in der App angezeigt werden.
 
-- Kopieren, dekompilieren, disassemblieren, zurückentwickeln oder auf andere Weise versuchen, den Quellcode der App abzuleiten, sofern dies nicht ausdrücklich durch geltendes Recht gestattet ist.
-- Ändern oder anpassen Sie die App oder erstellen Sie abgeleitete Werke auf Basis der App.
-- Nutzen Sie die App für rechtswidrige Zwecke oder in einer Weise, die die Rechte anderer verletzt.
-– Sicherheits- oder Zugriffskontrollfunktionen der App umgehen, deaktivieren oder beeinträchtigen.
-- Verwenden Sie die App, um Inhalte zu verarbeiten, zu übertragen oder zu speichern, zu deren Nutzung Sie gesetzlich nicht berechtigt sind.
+Zu den verfügbaren Kaufoptionen gehören monatliche Abonnements, Jahresabonnements und ein einmaliger Kauf auf Lebenszeit. Die verfügbaren Pläne, Preise und Funktionen werden vor dem Kauf in der App angezeigt und können je nach Land oder Region variieren.
 
-## 5. Benutzerinhalte und Urheberrecht
+Die Zahlung wird Ihrem iTunes- oder Apple-ID-Konto bei der Kaufbestätigung belastet. Automatisch verlängerbare Abonnements verlängern sich automatisch innerhalb von 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor Ablauf des aktuellen Zeitraums deaktiviert. Ihr Konto wird innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums für die Erneuerung belastet.
 
-- Sie sind allein dafür verantwortlich, sicherzustellen, dass Sie über die erforderlichen Rechte oder Lizenzen für Musik, Liedtexte, Kunstwerke oder andere Inhalte verfügen, die Sie importieren oder auf die Sie über von Ihnen konfigurierte Dienste zugreifen.
-- Guppy überprüft, speichert oder verteilt Ihre Inhalte nicht. Alle Inhalte bleiben auf Ihrem Gerät, wie in unserer Datenschutzrichtlinie beschrieben.
-- Sie tragen die alleinige Verantwortung für alle rechtlichen Konsequenzen, die sich aus dem Import oder der Verwendung nicht autorisierter Inhalte ergeben. Guppy übernimmt keine Verantwortung für eine solche Verwendung.
+Sie können die Abonnements verwalten und die automatische Verlängerung in Ihren iTunes- oder Apple-ID-Einstellungen deaktivieren. Wenn Sie die App löschen, wird ein aktives Abonnement nicht beendet.
 
-## 6. Dienste Dritter Mit
+Alle Abrechnungen, Verlängerungen, Stornierungen, Rückerstattungen und Kaufhistorien werden von Apple gemäß den App Store-Bedingungen und -Richtlinien gehandhabt. Guppy kann nicht direkt Rückerstattungen ausstellen oder Abonnements in Ihrem Namen kündigen. Wenn Sie eine Rückerstattung beantragen, gelten die Rückerstattungsregeln und -entscheidungen von Apple.
 
-Guppy können Sie eine Verbindung zu Diensten von Drittanbietern herstellen, die Sie selbst konfigurieren, einschließlich, aber nicht beschränkt auf WebDAV- und Subsonic-kompatible Server. Ihre Beziehung zu diesen Diensten unterliegt deren eigenen Bedingungen und Datenschutzrichtlinien. Guppy ist nicht verantwortlich für den Inhalt, die Verfügbarkeit, die Sicherheit oder das Verhalten von Diensten Dritter.
+Wenn ein Kauf nicht verifiziert werden kann, abläuft, storniert oder zurückerstattet wird, kann der Premium-Zugang nicht verfügbar sein oder entfernt werden. Sie sind dafür verantwortlich, dass Ihr Apple ID Konto und Ihre Zahlungsinformationen korrekt und sicher sind.
 
-## 7. Lokale Netzwerkfunktionen
+## 5. Akzeptable Nutzung
 
-Guppy bietet lokale Netzwerkfunktionen wie die Übertragung von Musik von Gerät zu Gerät und das Hochladen von Dateien von einem Browser auf Ihr Telefon. Diese Funktionen werden nur ausgeführt, wenn Sie sie explizit aktivieren. Sie tragen die alleinige Verantwortung für:
+Sie verpflichten sich, bei der Nutzung von Guppy keine der folgenden Handlungen vorzunehmen:
 
-- Verwenden Sie diese Funktionen nur in Netzwerken, denen Sie vertrauen;
-– Schutz der zwischen Ihrem Gerät und dem Zielgerät oder -dienst übertragenen Daten; und
-– Bewertung und Akzeptanz aller Risiken, die mit der Verwendung dieser Funktionen in Ihrer Netzwerkumgebung verbunden sind.
+- Den Quellcode der App zu kopieren, zu dekompilieren, zu disassemblieren, zurückzuentwickeln oder anderweitig zu versuchen, ihn abzuleiten, es sei denn, dies ist nach geltendem Recht ausdrücklich erlaubt.
+- Die App zu verändern oder anzupassen oder abgeleitete Werke auf der Grundlage der App zu erstellen.
+- Die App für einen ungesetzlichen Zweck oder in einer Weise zu nutzen, die die Rechte anderer verletzt.
+- Sicherheits- oder Zugangskontrollfunktionen der App zu umgehen, zu deaktivieren oder zu stören.
+- Die App zu nutzen, um Inhalte zu bearbeiten, zu übertragen oder zu speichern, zu deren Nutzung Sie nicht rechtlich befugt sind.
 
-## 8. Gewährleistungsausschluss
+## 6. Benutzerinhalte und Urheberrecht
 
-Guppy wird „wie besehen“ und „wie verfügbar“ bereitgestellt. Soweit gesetzlich zulässig, geben wir keine Garantien, weder ausdrücklich noch stillschweigend, einschließlich, aber nicht beschränkt auf Garantien der Marktgängigkeit, Eignung für einen bestimmten Zweck, Genauigkeit, Verfügbarkeit oder Nichtverletzung.
+- Sie sind allein dafür verantwortlich, sicherzustellen, dass Sie die erforderlichen Rechte oder Lizenzen für Musik, Texte, Kunstwerke oder andere Inhalte besitzen, die Sie importieren oder auf die Sie über die von Ihnen konfigurierten Dienste zugreifen.
+- Guppy überprüft, speichert oder verbreitet Ihre Inhalte nicht. Alle Inhalte bleiben auf Ihrem Gerät, wie in unserer Datenschutzrichtlinie beschrieben.
+- Sie tragen die alleinige Verantwortung für alle rechtlichen Konsequenzen, die sich aus dem Import oder der Nutzung nicht autorisierter Inhalte ergeben. Guppy übernimmt keine Verantwortung für eine solche Nutzung.
 
-Wir garantieren nicht, dass die App fehlerfrei, ununterbrochen und sicher ist oder dass sie Ihren spezifischen Anforderungen entspricht.
+## 7. Dienstleistungen von Drittanbietern
 
-## 9. Haftungsbeschränkung
+Mit Guppy können Sie sich mit Diensten von Drittanbietern verbinden, die Sie selbst konfigurieren, einschließlich, aber nicht beschränkt auf WebDAV und Subsonic-kompatible Server. Deine Beziehung zu diesen Diensten unterliegt deren eigenen Bedingungen und Datenschutzrichtlinien. Guppy ist nicht verantwortlich für den Inhalt, die Verfügbarkeit, die Sicherheit oder das Verhalten von Diensten Dritter.
 
-Im größtmöglichen gesetzlich zulässigen Umfang haftet Guppy nicht für indirekte, zufällige, besondere, Straf- oder Folgeschäden, die sich aus oder im Zusammenhang mit Ihrer Nutzung oder Unmöglichkeit der Nutzung der App ergeben, einschließlich, aber nicht beschränkt auf Datenverlust, Geräteschäden, entgangenen Gewinn oder Betriebsunterbrechung.
+## 8. Lokale Netzwerkfunktionen
+
+Guppy bietet Funktionen für das lokale Netzwerk, wie z. B. die Übertragung von Musik von Gerät zu Gerät und das Hochladen von Dateien von einem Browser auf Ihr Telefon. Diese Funktionen laufen nur, wenn Sie sie ausdrücklich aktivieren. Sie sind allein verantwortlich für:
+
+- diese Funktionen nur in Netzwerken zu verwenden, denen Sie vertrauen;
+- die Sicherung der zwischen Ihrem Gerät und dem Zielgerät oder -dienst übertragenen Daten; und
+- bewertung und Übernahme aller Risiken, die mit der Verwendung dieser Funktionen in Ihrer Netzwerkumgebung verbunden sind.
+
+## 9. Ausschluss von Garantien
+
+Guppy wird auf der Basis "wie besehen" und "wie verfügbar" bereitgestellt. Soweit es das geltende Recht zulässt, übernehmen wir keine ausdrücklichen oder stillschweigenden Garantien, einschließlich, aber nicht beschränkt auf Garantien der Marktgängigkeit, Eignung für einen bestimmten Zweck, Genauigkeit, Verfügbarkeit oder Nichtverletzung von Rechten.
+
+Wir übernehmen keine Garantie dafür, dass die App fehlerfrei, ununterbrochen und sicher funktioniert oder dass sie Ihren spezifischen Anforderungen entspricht.
+
+## 10. Beschränkung der Haftung
+
+Soweit gesetzlich zulässig, haftet Guppy nicht für indirekte, zufällige, besondere, strafende oder Folgeschäden, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung der App ergeben, einschließlich, aber nicht beschränkt auf Datenverluste, Geräteschäden, entgangene Gewinne oder Geschäftsunterbrechungen.
 
 Wir empfehlen Ihnen dringend, Ihre wichtigen Daten regelmäßig zu sichern.
 
-## 10. Altersvoraussetzung
+## 11. Altersvoraussetzung
 
-Bitte verwenden Sie Guppy entsprechend der Altersfreigabe, die der App auf dem Apple App Store zugewiesen wurde.
+Bitte verwenden Sie Guppy in Übereinstimmung mit der Altersfreigabe, die der App im Apple App Store zugewiesen wurde.
 
-## 11. Änderungen dieser Bedingungen
+## 12. Änderungen an diesen Bedingungen
 
-Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Alle Aktualisierungen werden in diesem In-App-Dokument widergespiegelt, wobei das „Datum des Inkrafttretens“ oben entsprechend geändert wird. Durch Ihre fortgesetzte Nutzung von Guppy nach Inkrafttreten der Aktualisierungen erklären Sie sich mit den überarbeiteten Bedingungen einverstanden.
+Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Alle Aktualisierungen werden in diesem In-App-Dokument wiedergegeben, wobei das "Datum des Inkrafttretens" am Anfang entsprechend geändert wird. Ihre fortgesetzte Nutzung von Guppy nach Inkrafttreten der Aktualisierungen stellt Ihre Zustimmung zu den überarbeiteten Bedingungen dar.
 
-## 12. Kündigung
+## 13. Terminierung
 
-Sie können diese Bedingungen jederzeit kündigen, indem Sie Guppy von Ihrem Gerät entfernen. Ihre Lizenz gemäß diesen Bedingungen erlischt automatisch, wenn Sie gegen eine dieser Bedingungen verstoßen.
+Sie können diese Bedingungen jederzeit kündigen, indem Sie Guppy von Ihrem Gerät entfernen. Ihre Lizenz unter diesen Bedingungen endet automatisch, wenn Sie eine dieser Bedingungen verletzen.
 
-## 13. Anwendbares Recht
+## 14. Geltendes Recht
 
-Diese Bedingungen unterliegen den Gesetzen der Gerichtsbarkeit, in der Sie wohnen, ausgelegt und durchgesetzt. Alle Streitigkeiten, die sich im Zusammenhang mit diesen Bedingungen ergeben, unterliegen den zuständigen Behörden der jeweiligen Gerichtsbarkeit.
+Diese Bedingungen sind nach den Gesetzen des Landes auszulegen und durchzusetzen, in dem Sie Ihren Wohnsitz haben. Alle Streitigkeiten, die im Zusammenhang mit diesen Bedingungen entstehen, unterliegen den zuständigen Behörden der jeweiligen Gerichtsbarkeit.
 
-## 14. Kontaktieren Sie uns
+## 15. Kontakt
 
 Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter:
 

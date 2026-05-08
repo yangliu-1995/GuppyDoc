@@ -1,67 +1,76 @@
-# Guppy Chính sách bảo mật
+# Chính sách bảo mật của Guppy
 
-**Ngày có hiệu lực: 23 tháng 4 năm 2026**
+**Ngày có hiệu lực: 9 tháng 5 năm 2026**
 
-Guppy là một trình phát nhạc cục bộ, ngoại tuyến. Quyền riêng tư là một phần cốt lõi trong cách thiết kế Guppy: tất cả nhạc, lịch sử nghe và dữ liệu cá nhân đều được lưu trên thiết bị của bạn. Chúng tôi không vận hành bất kỳ máy chủ nào và chúng tôi không thu thập, tải lên hoặc chia sẻ dữ liệu của bạn dưới bất kỳ hình thức nào.
+Guppy là một trình phát nhạc cục bộ, hoạt động ngoại tuyến. Quyền riêng tư là yếu tố cốt lõi trong thiết kế của Guppy: toàn bộ thư viện nhạc, lịch sử nghe nhạc và dữ liệu cá nhân của bạn đều được lưu trữ trên thiết bị của bạn. Chúng tôi không vận hành bất kỳ máy chủ nào và không thu thập, tải lên hay chia sẻ dữ liệu của bạn dưới bất kỳ hình thức nào.
 
-Chính sách này giải thích những gì Guppy truy cập trên thiết bị của bạn, lý do thiết bị truy cập vào thiết bị đó và quyền kiểm soát mà bạn có.
+Chính sách này giải thích những thông tin mà Guppy truy cập trên thiết bị của bạn, lý do tại sao ứng dụng này truy cập những thông tin đó, cũng như các quyền kiểm soát mà bạn có.
 
 ## Thông tin chúng tôi không thu thập
 
-Guppy **không** thu thập, tải lên hoặc chia sẻ bất kỳ nội dung nào sau đây với chúng tôi hoặc bất kỳ bên thứ ba nào:
+Guppy **không** thu thập, tải lên hoặc chia sẻ bất kỳ thông tin nào sau đây với chúng tôi hoặc bất kỳ bên thứ ba nào:
 
-- Thông tin tài khoản, tên, email, số điện thoại hoặc bất kỳ thông tin nhận dạng cá nhân nào.
-- Mã nhận dạng thiết bị, mã nhận dạng quảng cáo hoặc dữ liệu vị trí.
-- Tệp nhạc, lời bài hát, tác phẩm nghệ thuật, lịch sử nghe, mục yêu thích hoặc danh sách phát của bạn.
-- Phân tích sử dụng, đo từ xa hoặc báo cáo sự cố.
+- Thông tin tài khoản, tên, địa chỉ email, số điện thoại hoặc bất kỳ thông tin nhận dạng cá nhân nào.
+- Mã định danh thiết bị, mã định danh quảng cáo hoặc dữ liệu vị trí.
+- Các tệp nhạc, lời bài hát, hình ảnh bìa, lịch sử nghe, danh sách yêu thích hoặc danh sách phát của bạn.
+- Phân tích sử dụng, dữ liệu theo dõi từ xa hoặc báo cáo sự cố.
+- Số thẻ thanh toán, địa chỉ thanh toán, thông tin tài khoản ngân hàng hoặc các thông tin xác thực thanh toán khác.
 
 Guppy không tích hợp bất kỳ SDK phân tích, quảng cáo hoặc theo dõi nào của bên thứ ba.
 
-## Guppy Truy cập gì trên thiết bị của bạn
+## Guppy truy cập những gì trên thiết bị của bạn
 
-Guppy chỉ truy cập các mục sau trên thiết bị của bạn khi bạn chủ động sử dụng tính năng liên quan. Mọi quyền truy cập đều được kiểm soát bởi lời nhắc cấp phép hệ thống của Apple và mọi thứ diễn ra cục bộ trên thiết bị của bạn.
+Ứng dụng Guppy chỉ truy cập vào các mục sau trên thiết bị của bạn khi bạn chủ động sử dụng tính năng liên quan. Mỗi lần truy cập đều được kiểm soát thông qua các thông báo yêu cầu quyền hệ thống của Apple, và mọi thao tác đều diễn ra trực tiếp trên thiết bị của bạn.
 
-### Tệp và Nhạc cục bộ
+### Nhạc và tệp tin cục bộ
 
-- Guppy chỉ đọc các tệp nhạc hoặc lời bài hát khi bạn chọn chúng một cách rõ ràng thông qua bộ chọn tệp hệ thống.
-- Guppy có thể **chỉ truy cập các tệp bạn đã chọn rõ ràng**. Nó không quét hoặc đọc bất kỳ tập tin nào khác trên thiết bị của bạn.
+- Guppy chỉ đọc các tệp nhạc hoặc lời bài hát khi bạn chủ động chọn chúng thông qua trình chọn tệp của hệ thống.
+- Guppy **chỉ có thể truy cập vào các tệp mà bạn đã chọn rõ ràng**. Ứng dụng này không quét hay đọc bất kỳ tệp nào khác trên thiết bị của bạn.
 
-### Ảnh
+### Hình ảnh
 
-- Guppy chỉ truy cập thư viện ảnh của bạn khi bạn chọn nhập tác phẩm nghệ thuật hoặc hình ảnh lời bài hát từ đó.
-- Guppy sử dụng công cụ chọn ảnh hệ thống (PHPicker), cho phép Guppy truy cập **chỉ vào những hình ảnh cụ thể mà bạn chọn**. Guppy không bao giờ yêu cầu quyền truy cập đầy đủ vào thư viện ảnh.
+- Ứng dụng Guppy chỉ truy cập thư viện ảnh của bạn khi bạn chọn nhập các hình ảnh minh họa hoặc lời bài hát từ đó.
+- Guppy sử dụng trình chọn ảnh hệ thống (PHPicker), cho phép Guppy **chỉ truy cập vào những hình ảnh cụ thể mà bạn chọn**. Guppy không bao giờ yêu cầu quyền truy cập toàn bộ thư viện ảnh.
 
-### Mạng cục bộ
+### Mạng nội bộ
 
-Guppy chỉ sử dụng mạng cục bộ của bạn cho các tính năng sau mà bạn bật rõ ràng. Tất cả các kết nối được giới hạn ở mạng cục bộ của bạn hoặc tới các đích đến mà bạn tự cấu hình; không có gì được tải lên cho chúng tôi hoặc bất kỳ bên thứ ba nào:
+Guppy chỉ sử dụng mạng nội bộ của bạn cho các tính năng sau đây mà bạn đã chủ động kích hoạt. Tất cả các kết nối đều được giới hạn trong mạng nội bộ của bạn hoặc các điểm đến do chính bạn cấu hình; không có dữ liệu nào được tải lên cho chúng tôi hoặc bất kỳ bên thứ ba nào:
 
-- **Chuyển từ thiết bị này sang thiết bị**: di chuyển nhạc và lời bài hát giữa hai thiết bị chạy Guppy trên cùng một mạng cục bộ.
-- **Tải trình duyệt lên điện thoại**: tạm thời khởi động dịch vụ HTTP cục bộ trên điện thoại của bạn để bạn có thể tải tệp lên từ trình duyệt trên cùng một mạng. Dịch vụ này chỉ chạy khi bạn mở tính năng này.
-- **WebDAV**: kết nối với máy chủ WebDAV mà bạn tự cấu hình để duyệt hoặc nhập nhạc.
-- **Subsonicmáy chủ tương thích**: kết nối với máy chủ Subsonic mà bạn tự cấu hình để duyệt hoặc nhập nhạc.
+- **Chuyển dữ liệu giữa các thiết bị**: chuyển nhạc và lời bài hát giữa hai thiết bị đang chạy Guppy trên cùng một mạng nội bộ.
+- **Tải lên từ trình duyệt lên điện thoại**: tạm thời khởi chạy một dịch vụ HTTP cục bộ trên điện thoại của bạn để bạn có thể tải lên tệp từ trình duyệt trong cùng mạng. Dịch vụ này chỉ hoạt động khi bạn đang mở tính năng này.
+- **WebDAV**: kết nối với máy chủ WebDAV do chính bạn thiết lập để duyệt hoặc nhập nhạc.
+- **Máy chủ tương thích với Subsonic**: kết nối với máy chủ Subsonic do chính bạn cấu hình để duyệt hoặc nhập nhạc.
 
-Mọi địa chỉ máy chủ, tên người dùng và mật khẩu bạn nhập chỉ được lưu trữ trên thiết bị của bạn (thông tin xác thực được lưu trong hệ thống Keychain) và không bao giờ được tải lên.
+Mọi địa chỉ máy chủ, tên người dùng và mật khẩu mà bạn nhập vào chỉ được lưu trữ trên thiết bị của bạn (thông tin đăng nhập được lưu trong Keychain của hệ thống) và tuyệt đối không bao giờ được tải lên.
+
+## Mua hàng và Đăng ký
+
+Guppy cung cấp các gói đăng ký Premium tùy chọn và tùy chọn mua một lần trọn đời thông qua hệ thống mua hàng trong ứng dụng của Apple. Tất cả các giao dịch mua, thanh toán đăng ký, gia hạn, hủy đăng ký và hoàn tiền đều được Apple xử lý thông qua tài khoản App Store, iTunes hoặc Apple ID của bạn.
+
+Guppy không thu thập, nhận, lưu trữ hoặc xử lý số thẻ thanh toán, địa chỉ thanh toán, thông tin tài khoản ngân hàng hoặc các thông tin xác thực thanh toán khác của bạn. Apple có thể cung cấp cho Guppy một số thông tin hạn chế về trạng thái giao dịch, chẳng hạn như liệu gói đăng ký hoặc giao dịch mua trọn đời có đang hoạt động, đã hết hạn, bị hủy hay đã được khôi phục hay không. Guppy chỉ sử dụng thông tin trạng thái giao dịch đó trên thiết bị của bạn để mở khóa hoặc khôi phục các tính năng Premium.
+
+Bạn có thể quản lý hoặc hủy đăng ký trong phần cài đặt iTunes hoặc Apple ID. Chính sách bảo mật của Apple và các điều khoản của App Store sẽ được áp dụng đối với việc Apple xử lý thông tin mua hàng và thanh toán.
 
 ## Dịch vụ của bên thứ ba
 
-Khi bạn chọn kết nối với máy chủ WebDAV hoặc Subsonic, quá trình trao đổi dữ liệu sẽ diễn ra giữa thiết bị của bạn và máy chủ mà bạn đã định cấu hình và chịu sự điều chỉnh của chính sách quyền riêng tư của dịch vụ đó. Guppy không tham gia vào bất kỳ hoạt động thu thập hoặc chuyển tiếp dữ liệu nào ngoài hoạt động tương tác trực tiếp đó.
+Khi bạn chọn kết nối với máy chủ WebDAV hoặc Subsonic, quá trình trao đổi dữ liệu sẽ diễn ra giữa thiết bị của bạn và máy chủ mà bạn đã cấu hình, và tuân theo chính sách bảo mật riêng của dịch vụ đó. Guppy không tham gia vào bất kỳ hoạt động thu thập hay chuyển tiếp dữ liệu nào ngoài phạm vi tương tác trực tiếp đó.
 
-## Trách nhiệm của bạn và Bản quyền âm nhạc
+## Trách nhiệm của bạn và bản quyền âm nhạc
 
-- Guppy **chỉ phát** nhạc địa phương mà bạn đã sở hữu hợp pháp hoặc được phép sử dụng.
-- Guppy **không cung cấp bất kỳ dịch vụ tải xuống, tìm kiếm hoặc phân phối nhạc nào**. Tất cả nhạc, lời bài hát và tác phẩm nghệ thuật đều do bạn nhập.
-- Bạn hoàn toàn chịu trách nhiệm đảm bảo rằng bạn nắm giữ các quyền hoặc giấy phép cần thiết đối với bất kỳ bản nhạc, lời bài hát hoặc tác phẩm nghệ thuật nào mà bạn nhập. Bạn chịu mọi trách nhiệm về mọi hậu quả phát sinh từ việc nhập hoặc sử dụng nội dung trái phép.
+- Guppy **chỉ phát** nhạc cục bộ mà bạn đã sở hữu hợp pháp hoặc được phép sử dụng.
+- Guppy **không cung cấp bất kỳ dịch vụ tải xuống, tìm kiếm hay phân phối nhạc nào**. Tất cả nhạc, lời bài hát và hình ảnh đều do bạn tự nhập vào.
+- Bạn hoàn toàn chịu trách nhiệm đảm bảo rằng mình sở hữu các quyền hoặc giấy phép cần thiết đối với bất kỳ bản nhạc, lời bài hát hoặc tác phẩm nghệ thuật nào mà bạn nhập vào. Bạn phải chịu mọi trách nhiệm đối với bất kỳ hậu quả nào phát sinh từ việc nhập hoặc sử dụng nội dung không được phép.
 
 ## Quyền riêng tư của trẻ em
 
 Guppy không thu thập thông tin cá nhân từ bất kỳ người dùng nào, kể cả trẻ em.
 
-## Thay đổi đối với Chính sách này
+## Những thay đổi đối với Chính sách này
 
-Nếu chính sách này được cập nhật, tài liệu trong ứng dụng sẽ được cập nhật và "Ngày có hiệu lực" ở trên cùng sẽ được sửa đổi.
+Nếu chính sách này được cập nhật, tài liệu trong ứng dụng sẽ được cập nhật và "Ngày có hiệu lực" ở đầu trang sẽ được điều chỉnh.
 
 ## Liên hệ với chúng tôi
 
-Nếu bạn có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ với chúng tôi theo địa chỉ:
+Nếu quý vị có bất kỳ thắc mắc nào về chính sách này, vui lòng liên hệ với chúng tôi theo địa chỉ:
 
 `yangliu-1995@outlook.com`

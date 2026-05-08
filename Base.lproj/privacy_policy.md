@@ -1,6 +1,6 @@
 # Guppy Privacy Policy
 
-**Effective Date: April 23, 2026**
+**Effective Date: May 9, 2026**
 
 Guppy is an offline, local music player. Privacy is a core part of how Guppy is designed: all of your music, listening history, and personal data stay on your device. We do not operate any servers, and we do not collect, upload, or share your data in any way.
 
@@ -14,6 +14,7 @@ Guppy **does not** collect, upload, or share any of the following with us or any
 - Device identifiers, advertising identifiers, or location data.
 - Your music files, lyrics, artwork, listening history, favorites, or playlists.
 - Usage analytics, telemetry, or crash reports.
+- Payment card numbers, billing addresses, bank account details, or other payment credentials.
 
 Guppy does not integrate any third-party analytics, advertising, or tracking SDKs.
 
@@ -41,6 +42,14 @@ Guppy uses your local network only for the following features that you explicitl
 - **Subsonic-compatible servers**: connect to a Subsonic server that you configure yourself in order to browse or import music.
 
 Any server addresses, usernames, and passwords you enter are stored only on your device (credentials are kept in the system Keychain) and are never uploaded.
+
+## Purchases and Subscriptions
+
+Guppy offers optional Premium subscriptions and a one-time lifetime purchase through Apple's in-app purchase system. All purchases, subscription payments, renewals, cancellations, and refunds are processed by Apple through your App Store, iTunes, or Apple ID account.
+
+Guppy does not collect, receive, store, or process your payment card number, billing address, bank account information, or other payment credentials. Apple may provide Guppy with limited purchase status information, such as whether a subscription or lifetime purchase is active, expired, cancelled, or restored. Guppy uses that purchase status only on your device to unlock or restore Premium features.
+
+You can manage or cancel subscriptions in your iTunes or Apple ID settings. Apple's own privacy policy and App Store terms apply to Apple's processing of purchase and billing information.
 
 ## Third-Party Services
 
